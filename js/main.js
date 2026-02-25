@@ -92,4 +92,4 @@ function rainbow(div, text){
 }
 
 const txt = document.getElementById('test');
-rainbow(txt, '© 2024 | Developed By Bundas Andrian');
+rainbow(txt, '© 2026 | Developed By Aureliann ');
